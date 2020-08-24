@@ -127,6 +127,11 @@ abbr[title] {
   text-decoration: underline;
 }
 
+.post {
+  position: relative;
+  margin-bottom: 4rem;
+}
+
 .post-metadata {
   color: #6c757d !important;
   font-size: 0.88rem;
