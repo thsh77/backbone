@@ -127,6 +127,9 @@ abbr[title] {
   text-decoration: underline;
 }
 
+.post-metadata {
+  color: #6c757d !important;
+
 .footer {
   display: flex;
   padding-top: 1rem;
