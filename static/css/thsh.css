@@ -71,6 +71,11 @@ abbr[title] {
   text-decoration-skip-ink: none;
 }
 
+blockquote {
+  font-size: 0.88rem;
+  color: #6c757d !important;
+}
+
 .container {
   max-width: 38rem;
   margin: 0 auto;
