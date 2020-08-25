@@ -142,6 +142,10 @@ blockquote {
   margin-bottom: 4rem;
 }
 
+.post img {
+  max-width: 100%;
+}
+
 .post-metadata {
   color: #6c757d !important;
   font-size: 0.88rem;
